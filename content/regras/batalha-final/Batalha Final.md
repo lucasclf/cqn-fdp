@@ -1,5 +1,3 @@
-# Batalha Final
-
 - [Construindo Defesas](/regras/batalha-final/Construindo%20Defesas.md)
 - [Treinando Aliados](/regras/batalha-final/Treinando%20Aliados.md)
 - [Tipos de Parceiros](/regras/batalha-final/Tipos%20de%20Parceiros.md)
