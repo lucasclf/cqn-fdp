@@ -1,4 +1,4 @@
 # Fim dos Tempos
 
 ## Seções
-- [Batalha Final](/regras/batalha-final/Batalha Final.md)
+- [Batalha Final](/content/regras/batalha-final/batalha-final.md)
