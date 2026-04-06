@@ -1,0 +1,6 @@
+- [Construindo Defesas](/content/regras/batalha-final/construindo-defesas.md)
+- [Treinando Aliados](/content/regras/batalha-final/treinando-aliados.md)
+- [Tipos de Parceiros](/content/regras/batalha-final/tipos-de-parceiros.md)
+- [Usando Parceiros](/content/regras/batalha-final/usando-parceiros.md)
+- [Ferimento e morte de parceiros](/content/regras/batalha-final/ferimento-e-morte-de-parceiros.md)
+- [Lista de Parceiros](/content/regras/batalha-final/lista-de-parceiros.md)
