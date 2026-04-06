@@ -1,0 +1,5 @@
+Ao final da rodada de cada jogador, o jogador rola 1d6. Se o resultado for igual ou menor que o número de parceiros que ele usou nessa rodada, um dos parceiros (decidido aleatoriamente) é ferido e sai de combate.
+
+Ao final de cada onda de ataques, jogue um dado para cada parceiro. Em um resultado ímpar, o parceiro não resistiu aos ferimentos e morreu. Se tiver sobrevivido, o parceiro está fora de combate até receber algum tipo de cura, como um bálsamo restaurador ou uma magia Curar Ferimentos.
+
+Se os aventureiros quiserem impedir a morte de um NPC muito querido, há uma possibilidade. Depois que o parceiro for tirado de combate por ferimento e antes de rolar a chance de morte, o grupo pode escolher tirar de jogo permanentemente um parceiro médico. Se fizerem isso, o NPC ferido não volta ao combate (mas veja acima). Contudo, não tem chance de morrer. O parceiro médico não morre, mas nada pode fazê-lo voltar ao combate, mesmo em ondas posteriores.
